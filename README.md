@@ -2,7 +2,9 @@
 
 ## Visão geral
 
-O que uma empresa pode fazer quando seus sistemas ficam indisponíveis ou informações são perdidas? Neste laboratório da **Cisco Networking Academy (NetAcad)**, são analisados cenários fictícios que afetam uma empresa de aulas particulares.
+O que uma empresa pode fazer quando seus sistemas ficam indisponíveis ou informações são perdidas? 
+
+> Neste laboratório da **Cisco Networking Academy (NetAcad)**, são analisados cenários fictícios que afetam uma empresa de aulas particulares.
 
 A atividade propõe medidas para recuperar dados e serviços após um desastre natural, um possível ataque de negação de serviço e uma perda de dados. O estudo destaca backups, alternativas de acesso e planejamento da recuperação.
 
